@@ -59,7 +59,7 @@ const Projects = () => {
       title: "E-Commerce Website for a Jewelry Shop with Live Price Updates",
       date: "Feb 2025 - Mar 2025",
       description: "Developed a fully functional E-commerce website for a jewelry shop, designed to offer a seamless online shopping experience while incorporating live gold and silver price updates.",
-      liveDemo: "https://backend-wizardry-lounge.vercel.app/"
+      liveDemo: "https://backend-wizardry-lounge-main.vercel.app/"
     }
   ];
 
